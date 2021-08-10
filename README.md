@@ -10,9 +10,10 @@ Where <b>gosling.jpg</b> - input image (could be also a video, folder with image
 <b>lips.pt</b> - pretrained weights<br>
 The output will be in <b>run/detect/expX</b> folder.<br>
 
-Input:
-<img src="gosling.jpeg" alt="drawing" width="200"/>
-Output:
-<img src="gosling_out.jpeg" alt="drawing" width="200"/>
+Input:<br>
+<img src="gosling.jpeg" alt="drawing" width="400"/>
+<br><br>
+Output:<br>
+<img src="gosling_out.jpeg" alt="drawing" width="400"/>
 
 You can use the weights for any purposes.
