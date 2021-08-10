@@ -13,6 +13,6 @@ The output will be in <b>run/detect/expX</b> folder.<br>
 Input:
 <img src="gosling.jpeg" alt="drawing" width="200"/>
 Output:
-<img src="gosling.out" alt="drawing" width="200"/>
+<img src="gosling_out.jpeg" alt="drawing" width="200"/>
 
 You can use the weights for any purposes.
