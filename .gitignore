@@ -1,5 +1,6 @@
 runs/
-
+!gosling.jpeg
+!gosling_out.jpeg
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
 *.jpg
 *.jpeg

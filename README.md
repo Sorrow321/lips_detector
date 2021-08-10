@@ -6,9 +6,9 @@ Usage:
     python detect.py --source gosling.jpg --weights lips.pt
 ```
 
-Where <b>gosling.jpg</b> - input image (could be also a video, folder with images, your webcam and a lot of other inputs, check official YoloV5 repo for more information).
-<b>lips.pt</b> - pretrained weights
-The output will be in <b>run/detect/expX</b> folder.
+Where <b>gosling.jpg</b> - input image (could be also a video, folder with images, your webcam and a lot of other inputs, check official YoloV5 repo for more information).<br>
+<b>lips.pt</b> - pretrained weights<br>
+The output will be in <b>run/detect/expX</b> folder.<br>
 
 Input:
 <img src="gosling.jpeg" alt="drawing" width="200"/>
