@@ -1,0 +1,8 @@
+train: data_for_yolo/images/train  
+val: data_for_yolo/images/validation
+
+# number of classes
+nc: 1
+
+# class names
+names: ['mouth']
